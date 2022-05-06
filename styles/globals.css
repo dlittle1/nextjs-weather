@@ -4,9 +4,9 @@ body,
 html {
   padding: 0;
   margin: 0;
-  font-family: 'Be Vietnam Pro', sans-serif;
-  background: #4f32ff;
-  color: #fff;
+  font-family: 'Be Vietnam Pro', sans-serif !important;
+  background: #4f32ff !important;
+  color: #fff !important;
 }
 
 a {
